@@ -23,6 +23,9 @@
 	<img src="https://img.shields.io/badge/JSON-000000.svg?style=flat&logo=JSON&logoColor=white" alt="JSON">
 </p>
 <hr>
+## This repo has the implementation of the most common AI applications being build today.
+### Chat bots, vector database usage, Rag applications, Function calling to build agents.
+### you can use this as a guiding doc for your development
 
 ##  Repository Structure
 
@@ -51,8 +54,6 @@
 
 Ensure you have the following dependencies installed on your system:
 
-* **JavaScript**: `version x.y.z`
-
 ###  Installation
 
 1. Clone the all-you-can-do-with-ai repository:
@@ -80,18 +81,5 @@ Use the following command to run all-you-can-do-with-ai:
 ```sh
 node app.js
 ```
-
-###  Tests
-
-To execute tests, run:
-
-```sh
-npm test
-```
-
----
-- List any resources, contributors, inspiration, etc. here.
-
-[**Return**](#-quick-links)
 
 ---
