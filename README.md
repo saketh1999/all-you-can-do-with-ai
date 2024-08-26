@@ -23,9 +23,9 @@
 	<img src="https://img.shields.io/badge/JSON-000000.svg?style=flat&logo=JSON&logoColor=white" alt="JSON">
 </p>
 <hr>
+
 ## This repo has the implementation of the most common AI applications being build today.
-### Chat bots, vector database usage, Rag applications, Function calling to build agents.
-### you can use this as a guiding doc for your development
+ Chat bots, vector database usage, Rag applications, Function calling to build agents. You can use this as a guiding doc for your development
 
 ##  Repository Structure
 
